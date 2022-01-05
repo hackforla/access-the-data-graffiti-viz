@@ -1,0 +1,17 @@
+# subset of the environment built for data-literacy
+name: graffiti-viz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab=3
+  - nodejs
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - geopandas
+  - pyproj
+  - Shapely
+  - folium
+  - branca
