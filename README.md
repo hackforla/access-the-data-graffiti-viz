@@ -1,6 +1,6 @@
 # Visualize LA 311 data 
 
-Need a simple verion of results from [data-literacy](https://github.com/researchsherpa/data-literacy) for the Graffiti Removal request type.
+Need a simple verion of results from [access the data workshop](https://github.com/researchsherpa/access-the-data-workshop-311-analysis) for the Graffiti Removal request type.
 
 I built this to be compact so it could run in binder.
 
