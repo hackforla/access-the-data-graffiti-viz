@@ -24,3 +24,5 @@ I use jupyter lab with ipywidgets and folium. The recipe is:
   3. Fire up lab via `jupyter lab`
   
   4. Explore
+
+foo
